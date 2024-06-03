@@ -29,7 +29,7 @@ const Form = () => {
 
   return (
     <>
-    <h4 className="heading">STUDENT REGISTRATION FORM</h4>
+    <h4 className="heading">STUDENT hemansi REGISTRATION FORM</h4>
     <div className="form-container">
       
       <form onSubmit={formik.handleSubmit} className="form-content">
